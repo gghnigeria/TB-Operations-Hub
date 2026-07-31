@@ -9,7 +9,7 @@ A simple GitHub workspace for TB programme Management, Executive, M&E and coordi
 - **Discussions:** questions, announcements and ideas
 - **Project board:** status, priority, owner and target date
 
-The published guide is available at [<https://traj3ctory.github.io/TB-Operations-Hub/>](https://gghnigeria.github.io/TB-Operations-Hub/).
+The published guide is available at [<https://gghnigeria.github.io/TB-Operations-Hub/>](https://gghnigeria.github.io/TB-Operations-Hub/).
 
 ## Working rule
 
