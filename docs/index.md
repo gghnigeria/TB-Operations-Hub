@@ -11,7 +11,7 @@ hide:
 The web workspace for TB Management, Executive, M&E and coordination users. Find approved guidance, raise work, discuss decisions and follow delivery—without writing code.
 
 [Explore the guide](getting-started.md){ .md-button .md-button--primary }
-[Open the project board](https://github.com/users/traj3ctory/projects/2){ .md-button }
+[How to Install](oownloads/NTBLCP MOBILE APK SET UP v1.0.docx){ .md-button }
 [Download the presentation](downloads/TB-Operations-Hub-Guide.pptx){ .md-button }
 </section>
 
